@@ -4,7 +4,8 @@ A quick-start project that helps you customize Syncfusion Blazor Dropdown List e
 
 Watch the video: Coming soon...
 
-Documentation: https://blazor.syncfusion.com/documentation/dropdown-list/template 
+Documentation: https://blazor.syncfusion.com/documentation/dropdown-list/template
+
 Online example: https://blazor.syncfusion.com/demos/dropdown-list/template
 
 ## Project prerequisites
